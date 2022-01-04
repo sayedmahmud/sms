@@ -21,7 +21,7 @@ apt-get update
 pkg install python -y
 pkg install git -y
 git clone https://github.com/Mr-MoJiB/sms
-cd sma
+cd sms
 pip install requests 
 ls
 python redbombbd.py
